@@ -3,7 +3,7 @@ A simple autonomous parking prototype using Raspberry Pi Pico 2W, Rust and Embas
 
 :::info 
 
-**Author**: Ghita Alexandru-Catalin
+**Author**: Ghita Alexandru-Catalin \
 **GitHub Project Link**: https://github.com/UPB-PMRust-Students/project-GhitaAlexandruCatalin
 
 :::
@@ -41,6 +41,7 @@ Built the car and developed stable automatic parking algorithm with PWM motor co
 ### Week 12 - 18 May
 Calibrated the parking stages duration (to make sure the car parks as good as possible), integrated Wi-Fi support and added web interface plan with special parking maneuver detection.
 ### Week 19 - 25 May
+Created the web page and the server on the Pico to control the maneuvres of the car (Start searching, Start parking, Auto parking)
 
 ## Hardware
 
